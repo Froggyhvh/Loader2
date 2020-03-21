@@ -1,3 +1,5 @@
+# If you are looking for a secure loader with amazing support, head to [Vanguard Loaders](https://vanguardloaders.com) and use promo code "THAISEN" for 10% off your first invoice!
+
 # Nova Hook | Open Source C# Cheat Loader
 
 I will not be actively updating this project, but I may bring in some new features from time to time when I am bored and have nothing else to do. If you need support contact me on Discord at Thaisen#9999 or [on my Discord server](https://discord.gg/J8HNrPG)! (UPDATED 04/28/2019)
