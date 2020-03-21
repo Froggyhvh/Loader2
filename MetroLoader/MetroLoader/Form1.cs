@@ -33,7 +33,7 @@ namespace MetroLoader
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Head to VanguardLoaders.com for a secure loader! Use promo code THAISEN for 10% off your first invoice");
             metroCheckBox1.Checked = true;
 
             var steam = "steam";
